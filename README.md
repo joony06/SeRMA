@@ -1,2 +1,2 @@
 # SeRMA
-SeRMA &amp; SeSMA
+SeRMA(Seminar Reservation Management Automation) &amp; SeSMA(Seminar Sending Message Automation)
