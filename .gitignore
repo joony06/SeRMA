@@ -1,3 +1,26 @@
+# 비밀 값·개인정보 (절대 올리지 않음)
+sesma/config.json
+sesma/service-account.json
+*.json.broken
+.env*
+*adminsdk*.json
+
+# SeSMA 실행 중 생기는 파일 (학생 이름·번호 포함)
+sesma/sent_keys.json
+sesma/history.json
+sesma/pending_verification.json
+sesma/rotation_log.json
+sesma/alert_sent.json
+sesma/ALERT.txt
+sesma/log.txt
+sesma/com.seminar.sms.plist
+
+# 환경
+sesma/venv/
+__pycache__/
+.DS_Store
+
+# ── 아래는 GitHub 기본 Python .gitignore ──
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

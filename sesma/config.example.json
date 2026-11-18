@@ -1,0 +1,6 @@
+{
+  "spreadsheet_id": "관리 시트 ID (주소의 /d/ 와 /edit 사이)",
+  "admin_phone_number": "010-0000-0000",
+  "test_phone_number": "010-0000-0000",
+  "test_mode": true
+}
